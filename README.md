@@ -2,7 +2,7 @@
 <br>
 
 <div>
-   <img src="./assets/keyboard.gif" style="border-radius : 8px" alt="keyboard"/>
+   <img src="./assets/keyboard.gif" style="border-radius : 1rem" alt="keyboard"/>
 </div>
 
 ###  About Me
